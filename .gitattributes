@@ -1,2 +1,4 @@
-"*.java linguist-detectable=true" 
-"*.js linguist-detectable=false" 
+*.java linguist-detectable=true
+*.js linguist-detectable=false
+*.jsx linguist-detectable=false
+client/** linguist-vendored
